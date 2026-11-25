@@ -4,15 +4,15 @@ require_once __DIR__ . '/Mahasiswa.php';
 require_once __DIR__ . '/Produk.php';
 
 $mhs1 = new Mahasiswa(
-    "240001", "Andi", "Pendidikan Teknologi Informasi", 3.85
+    "24.24.092345", "Andi", "Pendidikan Teknologi Informasi", 3.85
 );
 
 $mhs2 = new Mahasiswa(
-    "240002", "Siti", "Pendidikan Teknologi Informasi", 3.40
+    "24.24.784563", "Siti", "Pendidikan Teknologi Informasi", 3.40
 );
 
 $mhs3 = new Mahasiswa(
-    "240003", "Budi", "Pendidikan Teknologi Informasi", 2.90
+    "24.24.035233", "Budi", "Pendidikan Teknologi Informasi", 2.90
 );
 
 echo "<h1>Lab Sheet Pertemuan 2</h1>";
